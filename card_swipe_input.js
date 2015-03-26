@@ -1,5 +1,6 @@
-// Copyright 2015 SIL
-// by Ben Lippincott
+// Copyright 2015 SIL All code herein is owned by Shout It Louder.
+// All Rights Reserved to the author and Shout It Louder.
+// Authored by Ben Lippincott of Shout It Louder
 var cardFields = {
 	"ccNumber" : "",
 	"name" : "",
